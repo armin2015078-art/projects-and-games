@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.4.1
+**Datum:** 2026.07.09
+
+### 🐛 Fehler behoben
+- Update-Popup nicht aufgetaucht
+
 ## Version 2.4.0
 **Datum:** 2026.07.09
 
