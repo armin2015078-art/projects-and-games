@@ -4,4 +4,7 @@
 **Datum:** 2026.07.09
 
 ### ✨ Neu
-Mehr Musik eingefügt
+- Mehr Musik eingefügt
+
+### 🔧 Änderungen
+- Spiel startet in maximiert
