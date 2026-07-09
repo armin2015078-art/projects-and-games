@@ -1,7 +1,7 @@
 # Changelog
 
 ## Version 2.4.0
-**Datum:** YYYY-MM-DD
+**Datum:** 2026.07.09
 
 ### ✨ Neu
 - Raumschiff/Zitronen Skins
