@@ -7,4 +7,4 @@
 - Mehr Musik eingefügt
 
 ### 🔧 Änderungen
-- Spiel startet in maximiert
+- Spiel startet maximiert
